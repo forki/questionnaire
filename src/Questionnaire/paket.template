@@ -1,0 +1,23 @@
+type project
+owners
+    Jeremy Marshall Abbott
+authors 
+    Jeremy Marshall Abbott
+projectUrl
+    http://github.com/jeremyabbott/Questionnaire
+iconUrl
+    https://raw.githubusercontent.com/jeremyabbott/Questionnaire/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/jeremyabbott/Questionnaire/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Build and publish questionnaires for research
+description
+    Description not set
+
+
